@@ -78,16 +78,8 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rakib9869&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib9869&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=00F7FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib9869&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:008080,100:0d1117&height=90&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakib9869/rakib9869/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakib9869/rakib9869/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rakib9869/rakib9869/output/github-contribution-grid-snake-dark.svg" />
+</picture>
