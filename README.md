@@ -1,24 +1,20 @@
-<!-- ডায়নামিক হেডার ব্যানার -->
+<!-- ফুলের পাপড়ির মতো ওয়েভ অ্যানিমেটেড হেডার ব্যানার -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0284c7,100:38bdf8&height=230&section=header&text=Rakibul%20Hasan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Cyber%20Security%20Expert%20%26%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0284c7,70:38bdf8,100:0f172a&height=240&section=header&text=Rakibul%20Hasan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Ethical%20Cyber%20Security%20Expert%20%7C%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" width="100%" />
 </div>
 
-<!-- ডায়নামিক টাইপিং অ্যানিমেশন -->
+<!-- ডায়নামিক টাইপিং ইন্ট্রো -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi+there!+I'm+Rakibul+Hasan+(BUGHUNTER-71);Ethical+Cyber+Security+Expert+%26+Bug+Hunter;Full-Stack+Web+Developer+%26+UI%2FUX+Architect;Securing+Systems+%26+Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Welcome+to+My+Digital+Space!+I'm+Rakibul+Hasan;Ethical+Cyber+Security+Expert+%26+Bug+Hunter;Full-Stack+Web+Developer+%26+System+Architect;Securing+Networks+%26+Crafting+Next-Gen+Web+Apps" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- নন-ক্লিকেবল 3D স্টাইল সোশ্যাল ও কন্টাক্ট সিম্বল (কোনো লিংক বা জিমেইল আইডি ছাড়া) -->
+<!-- সবগুলো ইউনিফর্ম চতুর্ভুজ (Square) 3D সোশ্যাল ও কন্টাক্ট আইকন (নন-ক্লিকেবল) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter&perline=3" height="48" alt="3D Social Icons 1" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="36" alt="Telegram" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="36" alt="Facebook" />
+  <img src="https://skillicons.dev/icons?i=instagram,gmail,linkedin,twitter,github&perline=5" height="52" alt="3D Square Social Icons" />
+  <br/>
+  <sub><i>🛡️ Connect &nbsp;•&nbsp; Collaborate &nbsp;•&nbsp; Innovate 🛡️</i></sub>
 </div>
 
 <br/>
@@ -27,49 +23,63 @@
 
 ### 👨‍💻 About Me
 
-> *"Securing the digital frontier while crafting sleek, resilient, and high-performance web applications."*
-
-- 🛡️ **Cyber Security Specialist:** Passionate about vulnerability assessment, penetration testing, web application security, and identifying critical bugs before they can be exploited.
-- 💻 **Full-Stack Web Developer:** Skilled in building end-to-end scalable web architectures with modern frontend interfaces and robust backend systems.
-- 🎨 **UI/UX & 3D Aesthetics:** Focused on dark-themed interfaces, glassmorphism, neon accents, and interactive 3D web elements.
-- 🧠 **Problem Solver:** Continuously exploring new attack vectors, defense mechanisms, and next-gen web technologies.
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/IDENTITY-Rakibul_Hasan_(BUGHUNTER--71)-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" />
+      </p>
+      <blockquote>
+        <i>"Breaking systems ethically to make them unbreakable, and engineering web experiences that leave a lasting impression."</i>
+      </blockquote>
+      <ul>
+        <li>🛡️ <b>Cyber Security Specialist:</b> Focused on Web Application Penetration Testing, Vulnerability Assessment & OWASP Top 10 Defense.</li>
+        <li>💻 <b>Full-Stack Architect:</b> Building scalable, high-performance web applications with modern frontend & secure backend ecosystems.</li>
+        <li>🎨 <b>3D & UI/UX Aesthetics:</b> Crafting sleek dark-mode interfaces, glassmorphism, and interactive 3D web environments.</li>
+        <li>⚡ <b>DevSecOps Mindset:</b> Integrating security-first practices directly into every layer of software development.</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=38BDF8&background=0D1117&center=false&vCenter=false&multiline=true&width=310&height=210&lines=%3E_SYSTEM_PROFILE.SH;%5B+%5D+Role%3A+Security+%26+Dev;%5B+%5D+Status%3A+Online+%26+Active;%5B+%5D+Mode%3A+Ethical+Hunting;%5B+%5D+Stack%3A+MERN+%7C+Py+%7C+3D;%3E_ACCESS_GRANTED..." alt="Terminal Card" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Official Portfolio Showcase
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="600">
-        <h3>✨ Explore My Interactive Portfolio ✨</h3>
-        <p>
-          Discover my complete skill set, security research, development background, and interactive web showcase in one place.
-        </p>
-        <br/>
-        <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO_WEBSITE-0F172A?style=for-the-badge&logo=netlify&logoColor=38BDF8" height="48" alt="Visit Portfolio" />
-        </a>
-        <br/><br/>
-        <code>🔗 https://rakibulhasan20099.netlify.app/</code>
-      </td>
-    </tr>
-  </table>
-</div>
+  <!-- কম্বাইন ১: আপনার নামের মতো ডায়নামিক টাইপিং অ্যানিমেশন ব্যানার (ক্লিকেবল) -->
+  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=EC4899&background=0D1117&center=true&vCenter=true&width=780&height=95&lines=🚀+EXPLORE+MY+INTERACTIVE+3D+PORTFOLIO+WEBSITE;🌐+https%3A%2F%2Frakibulhasan20099.netlify.app%2F;🛡️+Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Web;✨+Click+Here+to+Enter+My+3D+Digital+Universe!" alt="Animated Portfolio Banner" />
+  </a>
 
----
+  <br/><br/>
+
+  <!-- কম্বাইন ২: আপনার টেক স্ট্যাকের মতো 3D স্কয়ার আইকন + ক্লিকেবল বাটন -->
+  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify,threejs,react,kali&perline=4" height="46" alt="Portfolio 3D Icons" />
+  </a>
+  <br/><br/>
+  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_3D_PORTFOLIO-EC4899?style=for-the-badge&logo=netlify&logoColor=white" height="42" alt="Launch Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_rakibulhasan20099.netlify.app-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" height="42" alt="Portfolio Link" />
+  </a>
+</div>
 
 ### 🛠️ 3D Tech Stack & Security Arsenal
 
 <div align="center">
-  <!-- 3D / Isometric Style Tech & Security Icons -->
   <img src="https://skillicons.dev/icons?i=kali,linux,py,js,ts,html,css,react,nextjs,nodejs,express,mongodb,threejs,tailwind,php,git,github,vscode&perline=9" alt="3D Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- অতিরিক্ত 3D গ্লোয়িং ব্যাজ -->
   <img src="https://img.shields.io/badge/Cyber_Security-PenTesting-EF4444?style=plastic&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bug_Hunting-OWASP_Top_10-38BDF8?style=plastic&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Full_Stack-MERN_&_Next.js-10B981?style=plastic&logo=react&logoColor=white" />
@@ -78,20 +88,23 @@
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BUGHUNTER-71&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGHUNTER-71&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165" />
+  <!-- GitHub প্রোফাইল ট্রফি (১০০% সচল এবং প্রফেশনাল লুক) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BUGHUNTER-71&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6" width="92%" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BUGHUNTER-71&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=0284C7&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  <!-- স্ট্রিক স্ট্যাটস এবং প্রোফাইল সামারি কার্ড (ব্রোকেন ইমেজ মুক্ত) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGHUNTER-71&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="175" alt="Streak Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BUGHUNTER-71&theme=tokyonight" height="175" alt="Profile Summary" />
 </div>
 
 <!-- ফুটার ব্যানার -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0284c7,100:090d16&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:38bdf8&height=110&section=footer&animation=twinkling" width="100%" />
 </div>
