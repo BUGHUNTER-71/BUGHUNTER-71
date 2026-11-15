@@ -52,7 +52,18 @@
   <a href="https://rakibulhasan9999.netlify.app/" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0284c7,70:38bdf8,100:0f172a&height=200&section=header&text=This%20is%20My%20Portfolio&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%" alt="This is My Portfolio" />
   </a>
+
+
+
+  <h3>
+    ⬆️<br>
+    🎮 <strong>Secret Easter Egg: Open my portfolio above and press <kbd>Ctrl</kbd> + <kbd>G</kbd> to unlock a hidden game!</strong>
+  </h3>
 </div>
+
+
+
+
 ### 🛠️ 3D Tech Stack & Security Arsenal
 
 <div align="center">
