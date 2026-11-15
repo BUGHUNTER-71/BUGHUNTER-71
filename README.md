@@ -46,31 +46,13 @@
 </table>
 
 ---
-
 ### 🌐 Official Portfolio Showcase
 
 <div align="center">
-  <!-- কম্বাইন ১: আপনার নামের মতো ডায়নামিক টাইপিং অ্যানিমেশন ব্যানার (ক্লিকেবল) -->
   <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=EC4899&background=0D1117&center=true&vCenter=true&width=780&height=95&lines=🚀+EXPLORE+MY+INTERACTIVE+3D+PORTFOLIO+WEBSITE;🌐+https%3A%2F%2Frakibulhasan20099.netlify.app%2F;🛡️+Cybersecurity+%7C+Ethical+Hacking+%7C+Full-Stack+Web;✨+Click+Here+to+Enter+My+3D+Digital+Universe!" alt="Animated Portfolio Banner" />
-  </a>
-
-  <br/><br/>
-
-  <!-- কম্বাইন ২: আপনার টেক স্ট্যাকের মতো 3D স্কয়ার আইকন + ক্লিকেবল বাটন -->
-  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=netlify,threejs,react,kali&perline=4" height="46" alt="Portfolio 3D Icons" />
-  </a>
-  <br/><br/>
-  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_3D_PORTFOLIO-EC4899?style=for-the-badge&logo=netlify&logoColor=white" height="42" alt="Launch Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://rakibulhasan20099.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_rakibulhasan20099.netlify.app-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" height="42" alt="Portfolio Link" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0284c7,70:38bdf8,100:0f172a&height=200&section=header&text=This%20is%20My%20Portfolio&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%" alt="This is My Portfolio" />
   </a>
 </div>
-
 ### 🛠️ 3D Tech Stack & Security Arsenal
 
 <div align="center">
